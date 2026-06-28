@@ -6,7 +6,7 @@ authors:
   - family-names: "Carlak"
     given-names: "Renan Arda"
 version: 1.0.0
-date-released: 2026-06-25
+date-released: 2026-06-28
 abstract: "MATLAB and Simscape Multibody workflow for subject-specific sagittal human motion reconstruction and quantitative kinematic validation from MoCap data."
 keywords:
   - biomechanics
