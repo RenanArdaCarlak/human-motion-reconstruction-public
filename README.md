@@ -98,14 +98,14 @@ The following pseudocode summarizes the computational workflow without disclosin
 INPUT:
     anonymized motion-capture structure
 
-1. Read joint-center coordinates and segment orientations.
-2. Identify the ordered body-segment structure.
-3. Construct a subject-specific N-pose reference.
-4. Compute segment lengths and sagittal segment inclinations.
-5. Convert absolute segment inclinations into relative joint rotations.
-6. Apply pelvis translation and joint rotations to the multibody model.
-7. Simulate the selected motion interval.
-8. Store reconstructed joint centers and segment poses.
+    1. Read joint-center coordinates and segment orientations.
+    2. Identify the ordered body-segment structure.
+    3. Construct a subject-specific N-pose reference.
+    4. Compute segment lengths and sagittal segment inclinations.
+    5. Convert absolute segment inclinations into relative joint rotations.
+    6. Apply pelvis translation and joint rotations to the multibody model.
+    7. Simulate the selected motion interval.
+    8. Store reconstructed joint centers and segment poses.
 
 OUTPUT:
     reconstructed joint-center trajectories
