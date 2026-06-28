@@ -16,3 +16,5 @@ keywords:
   - Simscape Multibody
   - human motion reconstruction
   - kinematic validation
+repository-code: "https://github.com/RenanArdaCarlak/human-motion-reconstruction-public"
+license-url: "https://github.com/RenanArdaCarlak/human-motion-reconstruction-public/blob/main/LICENSE.md"
