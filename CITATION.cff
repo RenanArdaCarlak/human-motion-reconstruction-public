@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this repository when referring to this work. Citation does not grant permission to reuse the materials; see LICENSE.md for permitted use."
+title: "Subject-Specific Sagittal Human Motion Reconstruction"
+type: software
+authors:
+  - family-names: "Carlak"
+    given-names: "Renan Arda"
+version: 1.0.0
+date-released: 2026-06-25
+abstract: "MATLAB and Simscape Multibody workflow for subject-specific sagittal human motion reconstruction and quantitative kinematic validation from MoCap data."
+keywords:
+  - biomechanics
+  - motion capture
+  - MATLAB
+  - Simulink
+  - Simscape Multibody
+  - human motion reconstruction
+  - kinematic validation
