@@ -257,8 +257,8 @@ The portfolio version was verified with MATLAB R2025b.
 
 A detailed discussion of the model architecture, mathematical formulation, validation approach, results, and limitations is available in:
 
-- [Technical Report — Markdown](docs/TECHNICAL_REPORT.md)
-- [Technical Report — PDF](docs/TECHNICAL_REPORT.pdf)
+- [Technical Report - Markdown](docs/TECHNICAL_REPORT.md)
+- [Technical Report - PDF](docs/TECHNICAL_REPORT.pdf)
 
 ## Implementation and data availability
 
@@ -270,7 +270,7 @@ Limited access to the complete implementation may be provided upon request for p
 
 ## License and permitted use
 
-Copyright © 2021–2026 Renan Arda Carlak. All rights reserved.
+Copyright © 2021-2026 Renan Arda Carlak. All rights reserved.
 
 This repository and its contents are proprietary and are provided solely for portfolio presentation, recruitment review, professional evaluation, and academic review.
 
