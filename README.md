@@ -121,8 +121,7 @@ FOR each selected body segment:
     compute the absolute segment inclination relative to the N-pose
 
 FOR each modeled joint:
-    relative_joint_angle =
-        distal_segment_angle - proximal_segment_angle
+    relative_joint_angle = distal_segment_angle - proximal_segment_angle
 
 RETURN:
     time-varying sagittal joint rotations
